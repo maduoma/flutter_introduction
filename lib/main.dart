@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const HelloFlutterApp());
@@ -42,7 +41,9 @@ class _HelloFlutterAppState extends State<HelloFlutterApp> {
         body: Center(
           child: Text(
             displayText,
-            style: const TextStyle(fontSize: 48, fontWeight: FontWeight.normal), //FontWeight.bold
+            style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            // Making Text Bigger
+            //style: TextStyle(fontSize: 48, fontWeight: FontWeight.normal),
           ),
         ),
       ),
