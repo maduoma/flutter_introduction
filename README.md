@@ -1,6 +1,8 @@
 # Introduction to Flutter Application Development
 
-A new Flutter project.
+![Hello](https://github.com/maduoma/flutter_introduction/blob/master/Hello.png)
+
+![Bonjour](https://github.com/maduoma/flutter_introduction/blob/master/Bonjour.png)
 
 ## Getting Started
 
